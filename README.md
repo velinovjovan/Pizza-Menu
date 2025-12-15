@@ -1,4 +1,4 @@
-# 🍕 Pizza Menu React App
+# Pizza Menu 🍕
 
 This project is a simple **Pizza Menu** built with **React**, following along with Jonas Schmedtmann’s React course. It showcases React basics such as components, props, conditional rendering, and list rendering.
 
